@@ -1,0 +1,27 @@
+{
+    "nrf-connect.enableTelemetry": false,
+    "window.zoomLevel": -3,
+    "editor.minimap.enabled": false,
+    "files.autoSave": "onFocusChange",
+    "editor.fontFamily": "'TerminessTTF Nerd Font','Monaco'",
+    "editor.tabSize": 2,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": true,
+    "editor.guides.bracketPairsHorizontal": true,
+    "diffEditor.wordWrap": "on",
+    "workbench.colorTheme": "Monokai Dimmed",
+    "workbench.productIconTheme": "fluent-icons",
+    "workbench.editor.enablePreview": false,
+    "workbench.iconTheme": "vscode-icons",
+    "terminal.integrated.fontFamily": "'TerminessTTF Nerd Font'",
+    "terminal.integrated.fontSize": 16,
+    "kite.showWelcomeNotificationOnStartup": false,
+    "workbench.startupEditor": "none",
+    "nrf-connect.welcome.showOnStartup": false,
+    "cmake.configureOnOpen": true,
+    "nrf-connect.topdir": "/home/samid/noridc/ncs",
+    "nrf-connect.boardRoots": [
+        "/home/samid/nordic/nrf",
+        "/home/samid/nordic/nfed/zephyr"
+    ]
+}
